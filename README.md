@@ -4,6 +4,10 @@
 
 Baseline TypeScript template with React 16.3, TypeScript 2.8, Jest, Enzyme, and Webpack
 
+## Testing
+
+npm test
+
 ## How it was created fro scratch
 
 npm init -y
